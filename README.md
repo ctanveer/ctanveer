@@ -7,7 +7,7 @@ I am proficient in **Javascript, Typescript, React, Angular, Jest, Express, Mong
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  Email me at [ct.anzoom@gmail.com](mailto:ct.anzoom@gmail.com)
-* ⚽  Avid Arsenal FC fan (COYG!!)
+* ⚽  Avid Arsenal fan (COYG!!)
 
 <br/>
 
